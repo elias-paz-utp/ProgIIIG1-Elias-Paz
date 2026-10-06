@@ -1,6 +1,6 @@
 % =========================================================
 % Actividad 01 - Programacion III
-% Estudiante: Elias Alejandro Paz Marin
+% Estudiante: Elias Alejandro Paz Marin, Jeremy Salazar Isaza
 % =========================================================
 
 % ---------------------------------------------------------
