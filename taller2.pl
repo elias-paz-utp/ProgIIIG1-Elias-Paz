@@ -1,7 +1,7 @@
 % =========================================================
 % Actividad 02 - Backtracking / grafo dirigido
 % Programacion III
-% Estudiante: Elias Alejandro Paz Marin
+% Estudiante: Elias Alejandro Paz Marin, Jeremy Salazar Isaza
 % =========================================================
 % Grafo dirigido y ponderado (Vancouver -> Winnipeg), tomado
 % del material anexo "03-Backtraking y SLD.pdf"
